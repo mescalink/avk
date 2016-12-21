@@ -5,6 +5,7 @@
   "homepage": "http://akolesnikov.pro",
   "type": "bitrix-component",
   "license": "MIT",
+  "minimum-stability": "dev",
   "support": {
     "email": "andrew.kolesnikov@gmail.com",
     "skype": "andrew.kolesnikov",
