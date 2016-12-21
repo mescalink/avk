@@ -1,0 +1,26 @@
+{
+  "name": "avk/avk",
+  "description": "AVK components for Bitrix",
+  "keywords": ["bitrix", "components"],
+  "homepage": "http://akolesnikov.pro",
+  "type": "bitrix-component",
+  "license": "MIT",
+  "support": {
+    "email": "andrew.kolesnikov@gmail.com",
+    "skype": "andrew.kolesnikov",
+    "issues": "https://github.com/mescalink/avk/issues",
+    "source": "https://github.com/mescalink/avk/"
+  },
+  "authors": [
+    {
+      "name": "Andrey Kolesnikov",
+      "homepage": "http://akolesnikov.pro",
+      "email": "andrew.kolesnikov@gmail.com"
+    }
+  ],
+  "require": {
+    "php":">=5.4.0",
+    "composer/installers": "~1",
+    "bitrix-expert/bbc": "<=2"
+  }
+}
